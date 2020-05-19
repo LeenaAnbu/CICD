@@ -1,3 +1,3 @@
 # DemoJavaApp
 
-AMI ID = *ami-0057d8e6fb0692b80*
+AMI ID = *ami-06a22a15ceefb47c3*
